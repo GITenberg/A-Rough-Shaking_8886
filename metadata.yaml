@@ -1,0 +1,30 @@
+_repo: A-Rough-Shaking_8886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: A homeless wanderer through the countryside of nineteenth-century England,
+  young Clare Skymer finds adventure among tramps, thieves, wild animals, and fellow
+  refugees from society, and perseveres through his devotion to God.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'England -- Juvenile fiction'
+- GITenberg
+title: A Rough Shaking
+url: http://www.gutenberg.org/ebooks/8886
